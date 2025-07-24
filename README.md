@@ -41,6 +41,6 @@ Hi! I'm *Monika Doble, an enthusiastic learner with a growing interest in **data
 
 ## 📫 Let’s Connect
 
-* 💼 LinkedIn: \[https://www.linkedin.com/in/aarya-meshram-261032338]
+* 💼 LinkedIn: \[https://www.linkedin.com/in/monika-doble-ba221b2]
 * 📧 Email: \[monikadoble7@gmail.com]
-* 🧠 GitHub: \[https://www.linkedin.com/in/monika-doble-ba221b2]
+* 🧠 GitHub: \[]
