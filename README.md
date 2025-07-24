@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👩‍💻 Monika Doble
 
-<!--
-**monikadoble7/monikadoble7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Python & SQL Learner | Passionate about Excel & Power BI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+
+Hi! I'm *Monika Doble, an enthusiastic learner with a growing interest in **data analysis and visualization. I enjoy working with datasets and using tools like **Excel, SQL, Power BI, and **Python* to uncover insights and tell stories with data. I'm currently developing hands-on projects to build a strong analytics portfolio.
+
+---
+
+## 🔧 Skills
+
+* *Languages & Tools:* Python, MySQL, SQLite
+* *Analytics & Visualization:* Power BI, Excel (Formulas, Charts, Pivot Tables)
+* *Other Tools:* GitHub, Jupyter Notebook
+* *Strengths:* Fast learner, detail-oriented, strong problem-solving
+
+---
+
+## 💼 Projects
+
+* *📊 BlinkIT Sales Dashboard* – Created interactive Power BI dashboards to visualize sales and category-wise trends
+* *📁 Contact Book System* – Python + MySQL-based tool to store and search contact details
+* *📈 HR Data Insights* – Used SQL to analyze employee data and calculate key metrics
+* *🎓 Student Record System* – Developed a record management app using Python and SQLite
+* *📊 Excel Reports* – Built dashboards using charts and functions for performance tracking
+
+📂 *Explore more on my [GitHub Profile](https://github.com/)*
+(Update with Monika’s GitHub username)
+
+---
+
+## 📚 Currently Learning
+
+* Power BI (DAX, Slicers, KPIs)
+* Advanced Excel for Reporting
+* SQL Queries and Joins for Real-time Data
+
+---
+
+## 📫 Let’s Connect
+
+* 💼 LinkedIn: \[]
+* 📧 Email: \[monikadoble7@gmail.com]
+* 🧠 GitHub: \[https://github.com/monikadoble7/monikadoble7/edit/main/README.md]
