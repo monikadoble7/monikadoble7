@@ -43,4 +43,4 @@ Hi! I'm *Monika Doble, an enthusiastic learner with a growing interest in **data
 
 * 💼 LinkedIn: \[https://www.linkedin.com/in/monika-doble-ba221b2]
 * 📧 Email: \[monikadoble7@gmail.com]
-* 🧠 GitHub: \[]
+* 🧠 GitHub: \[https://github.com/monikadoble7]
