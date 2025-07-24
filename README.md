@@ -27,9 +27,8 @@ Hi! I'm *Monika Doble, an enthusiastic learner with a growing interest in **data
 * *🎓 Student Record System* – Developed a record management app using Python and SQLite
 * *📊 Excel Reports* – Built dashboards using charts and functions for performance tracking
 
-📂 *Explore more on my [GitHub Profile](https://github.com/)*
-(Update with Monika’s GitHub username)
-
+📂 *Explore more on my [https://www.linkedin.com/in/monika-doble-ba221b2]*
+(Update with Monika’s GitHub username: monikadoble7 )
 ---
 
 ## 📚 Currently Learning
